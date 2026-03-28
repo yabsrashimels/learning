@@ -170,6 +170,7 @@ if (!isset($_SESSION['user'])) {
         <a href="home.php" class="logo">EduCode</a>
         <div class="nav-links">
             <a href="home.php">Home</a>
+             <a href="about.php">About</a>
             <a href="admin-dashboard.php">Admin Dashboard</a>
             <a href="logout.php">Logout</a>
             <button id="themeToggle" class="dark-mode-toggle">Dark Mode</button>
