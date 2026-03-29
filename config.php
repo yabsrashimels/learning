@@ -1,7 +1,7 @@
 <?php
 
 $conn = pg_connect("
-host=dpg-d74helcr85hc73fqek10-a
+host=dpg-d74helcr85hc73fqek10-a.oregon-postgres.render.com
 port=5432
 dbname=simple_oco2
 user=simple_oco2_user
